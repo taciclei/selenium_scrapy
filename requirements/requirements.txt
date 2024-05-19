@@ -1,2 +1,2 @@
-Scrapy==2.6.1
+Scrapy==2.11.2
 pyselenium-localstorage==0.1.1
